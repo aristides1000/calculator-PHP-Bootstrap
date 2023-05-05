@@ -11,6 +11,12 @@
   <!-- build structure of calculator in bootstrap -->
 
   <div class="container">
+
+    <div class="row">
+      <div class="col-md-4 offset-md-4">
+        <h1 class="mt-4 mb-3 text-center">Calculator</h1>
+      </div>
+    </div>
     <div class="row">
       <div class="col-md-4 offset-md-4">
         <form action="index.php" method="post">
