@@ -4,7 +4,7 @@
 
 # Calculator PHP Bootstrap
 
-> This is a Calculator project where a user has access to a functional Library and has access to the categories view, this application was made with PHP and Bootstrap.
+> This is a Calculator project where a user has access to a functional calculator, this application was made with PHP and Bootstrap.
 ![screenshot](./Screenshot_1.png)
 
 ## Built With
