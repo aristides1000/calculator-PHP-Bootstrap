@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://suspicious-einstein-3746cf.netlify.app/)
+[Live Demo Link](https://calculator-php-bootstrap.000webhostapp.com/calculator/)
 
 ## Getting Started
 1. Clone this repo on in folder htdocs located in your xampp folder.
