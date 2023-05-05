@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/-PHP-%23777BB4?logoColor=white&style=plastic&logo=php)
+![](https://img.shields.io/badge/-Bootstrap_5-%237952B3?logoColor=white&style=plastic&logo=bootstrap)
+![](https://img.shields.io/badge/-HTML_5-%23E34F26?logoColor=white&style=plastic&logo=html5)
+
 # Calculator PHP Bootstrap
 
 > This is a Calculator project where a user has access to a functional Library and has access to the categories view, this application was made with PHP and Bootstrap.
